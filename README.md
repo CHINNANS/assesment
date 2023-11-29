@@ -27,7 +27,7 @@ This C program demonstrates how to read data from a Bluetooth module connected t
 2. Run the compiled executable.
 
     ```bash
-    ./serial-communication.exe
+    ./a.exe
     ```
 
 3. Monitor the console output for received data from the Bluetooth module.
