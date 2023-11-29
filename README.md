@@ -13,7 +13,7 @@ This C program demonstrates how to read data from a Bluetooth module connected t
 1. Clone the repository or download the source code.
 
     ```bash
-    git clone https://github.com/yourusername/serial-communication-bluetooth.git
+    git clone https://github.com/CHINNANS/assesment.git
     ```
 
 2. Open the project in your preferred C development environment.
